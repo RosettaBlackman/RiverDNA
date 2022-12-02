@@ -1,0 +1,376 @@
+Taxa,Library,cheddar.cat,cheddar.fg,ppt_slide_grouping,Gen_descriptor,Detail_descriptor,RRC_group1,RCC_group2,RCC_group3,Func_feed_grp,Trophic_level,Reference
+Chamaesiphon,16S,producer,producer,Autotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Leptolyngbya,16S,producer,producer,Autotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Nitrospira,16S,producer,producer,Autotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Planktothrix,16S,producer,producer,Autotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Roseiflexus,16S,producer,producer,Autotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Synechococcus,16S,producer,producer,Autotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Antocha,COI,invertebrate,herbivore,Collector_Filterer,Diptera,Crane fly,GathererCollector,GathererCollector,GathererCollector,Gatherer,PrimaryConsumer,0
+Asellus,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Hoglouse,GathererCollector,GathererCollector,None,Gatherer,PrimaryConsumer,"Eder, E., Hödl, W., Moog., O., Nesemann, H., Pöckl M. & Wittmann, K. (1995): Crustacea (authors depending on taxagroup). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferungen 1995, 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Caenis,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Mayfly,GathererCollector,GathererCollector,GathererCollector,Gatherer,PrimaryConsumer,Merritt wt al 2008
+Chironomus,COI,invertebrate,herbivore,Collector_Filterer,Diptera,Bloodworm,GathererCollector,GathererCollector,GathererCollector,Gatherer,PrimaryConsumer,"Janecek, B.F.U., Moog, O., Moritz, C., Orendt, C. & Saxl, R. (2002): Chironomidae (authors depending on subfamily). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferung 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Dero,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Worm,GathererCollector,GathererCollector,None,Gatherer,PrimaryConsumer,0
+Eiseniella,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,worm,GathererCollector,GathererCollector,None,Gatherer,PrimaryConsumer,"Hörner, K., Moog, O. & Sporka, F. (1995): Oligochaeta. In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferungen 1995, 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Ephemera,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Mayfly,GathererCollector,GathererCollector,GathererCollector,Gatherer,PrimaryConsumer,"AQEM expert consortium (2002): Ecological classifications by AQEM expert consortium, www.aqem.de"
+Habroleptoides,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Mayfly,GathererCollector,GathererCollector,GathererCollector,Gatherer,PrimaryConsumer,"Bauernfeind, E., Moog, O. & Weichselbaumer, P. (2002): Ephemeroptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002, water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Habrophlebia,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Mayfly,GathererCollector,GathererCollector,GathererCollector,Gatherer,PrimaryConsumer,"AQEM expert consortium (2002): Ecological classifications by AQEM expert consortium, www.aqem.de"
+Hydropsyche,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Caddisfly,CollectorFilter,CollectorFilter,CollectorFilter,FilterFeeder,PrimaryConsumer,"Graf, W., Grasser, U. & Waringer, J. (2002): Trichoptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, Lieferung 2002. Wasserwirtschaftskataster, Bundesministerium für Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Hydroptila,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Caddisfly,GathererCollector,GathererCollector,GathererCollector,Gatherer,PrimaryConsumer,"Graf, W., Grasser, U. & Waringer, J. (2002): Trichoptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, Lieferung 2002. Wasserwirtschaftskataster, Bundesministerium für Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Leuctra,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Stonefly,GathererCollector,GathererCollector,GathererCollector,Gatherer,PrimaryConsumer,"Graf, W., Grasser, U. & Weinzierl, A. (2002): Plecoptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Limnodrilus,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Worm,GathererCollector,GathererCollector,None,Gatherer,PrimaryConsumer,"Hörner, K., Moog, O. & Sporka, F. (1995): Oligochaeta. In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferungen 1995, 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Limnophyes,COI,invertebrate,herbivore,Collector_Filterer,Diptera,Bloodworm,GathererCollector,GathererCollector,GathererCollector,Gatherer,PrimaryConsumer,0
+Lumbricillus,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Worm,GathererCollector,GathererCollector,None,Gatherer,PrimaryConsumer,"Hörner, K., Moog, O. & Sporka, F. (1995): Oligochaeta. In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferungen 1995, 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Micropsectra,COI,invertebrate,herbivore,Collector_Filterer,Diptera,Bloodworm,GathererCollector,GathererCollector,GathererCollector,Gatherer,PrimaryConsumer,"Janecek, B.F.U., Moog, O., Moritz, C., Orendt, C. & Saxl, R. (2002): Chironomidae (authors depending on subfamily). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferung 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Ophidonais,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Worm,GathererCollector,GathererCollector,None,Gatherer,PrimaryConsumer,"Hörner, K., Moog, O. & Sporka, F. (1995): Oligochaeta. In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferungen 1995, 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Orthocladius,COI,invertebrate,herbivore,Collector_Filterer,Diptera,Bloodworm,CollectorFilter,CollectorFilter,CollectorFilter,FilterFeeder,PrimaryConsumer,"Janecek, BFU, Moog, O., Moritz, C., Orendt, C. & Saxl, R. (2002): Chironomidae (authors depending on subfamily). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, delivery 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Philopotamus,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Caddisfly,CollectorFilter,CollectorFilter,CollectorFilter,FilterFeeder,PrimaryConsumer,"Graf, W., Grasser, U. & Waringer, J. (2002): Trichoptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002. Water management cadastre, Federal Ministry for the Federal Ministry for Agriculture, Forestry, Environment and Water Management, Vienna."
+Polypedilum,COI,invertebrate,herbivore,Collector_Filterer,Diptera,Bloodworm,CollectorFilter,CollectorFilter,CollectorFilter,FilterFeeder,PrimaryConsumer,"Janecek, B.F.U., Moog, O., Moritz, C., Orendt, C. & Saxl, R. (2002): Chironomidae (authors depending on subfamily). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferung 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Potamopyrgus,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,snail,GathererCollector,GathererCollector,None,Gatherer,PrimaryConsumer,"Nesemann, H. & Reischütz, PL (1995): Gastropoda. In: Moog, O. (Ed.): Fauna Aquatica Austriaca, deliveries 1995, 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Potamothrix,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Worm,GathererCollector,GathererCollector,None,Gatherer,PrimaryConsumer,"Hörner, K., Moog, O. & Sporka, F. (1995): Oligochaeta. In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferungen 1995, 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Pristina,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Worm,GathererCollector,GathererCollector,None,Gatherer,PrimaryConsumer,"Hörner, K., Moog, O. & Sporka, F. (1995): Oligochaeta. In: Moog, O. (Ed.): Fauna Aquatica Austriaca, deliveries 1995, 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Prodiamesa,COI,invertebrate,herbivore,Collector_Filterer,Diptera,Bloodworm,GathererCollector,GathererCollector,GathererCollector,Gatherer,PrimaryConsumer,"Janecek, B.F.U., Moog, O., Moritz, C., Orendt, C. & Saxl, R. (2002): Chironomidae (authors depending on subfamily). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferung 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Prosimulium,COI,invertebrate,herbivore,Collector_Filterer,Diptera,Blackfly,CollectorFilter,CollectorFilter,CollectorFilter,FilterFeeder,PrimaryConsumer,"Car, M., Mohrig, W., Moog, O., Oosterbroek, P., Reusch, H., Wagner, R. & Zwick, P. (1995): Diptera (except Chironomidae) (authors depending on family). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, deliveries 1995, 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Simulium,COI,invertebrate,herbivore,Collector_Filterer,Diptera,Blackfly,CollectorFilter,CollectorFilter,CollectorFilter,FilterFeeder,PrimaryConsumer,"Car, M., Mohrig, W., Moog, O., Oosterbroek, P., Reusch, H., Wagner, R. & Zwick, P. (1995): Diptera (except Chironomidae) (authors depending on family). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, deliveries 1995, 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Stylodrilus,COI,invertebrate,herbivore,Collector_Filterer,Invertebrate,Worm,GathererCollector,GathererCollector,None,Gatherer,PrimaryConsumer,"Hörner, K., Moog, O. & Sporka, F. (1995): Oligochaeta. In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferungen 1995, 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Tanytarsus,COI,invertebrate,herbivore,Collector_Filterer,Diptera,Bloodworm,GathererCollector,GathererCollector,GathererCollector,Gatherer,PrimaryConsumer,"Janecek, B.F.U., Moog, O., Moritz, C., Orendt, C. & Saxl, R. (2002): Chironomidae (authors depending on subfamily). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferung 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Amphinemura,COI,invertebrate,herbivore,Grazer_scraper,Invertebrate,Stonefly,GrazerScraper,GrazerScraper,GrazerScraper,Grazer,PrimaryConsumer,Trophic ecology of Plecoptera (Insecta): a review J. M. Tierno de Figueroa & M. J. Lo_pez-Rodríguez c
+Anopheles,COI,invertebrate,herbivore,Grazer_scraper,Diptera,Mosquito,GrazerScraper,GrazerScraper,GrazerScraper,Grazer,PrimaryConsumer,"Car, M., Mohrig, W., Moog, O., Oosterbroek, P., Reusch, H., Wagner, R. & Zwick, P. (1995): Diptera (except Chironomidae) (authors depending on family). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, deliveries 1995, 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna"
+Baetis,COI,invertebrate,herbivore,Grazer_scraper,Invertebrate,Mayfly,GrazerScraper,GathererCollector,GathererCollector,GrazerGatherer,PrimaryConsumer,"Bauernfeind, E., Moog, O. & Weichselbaumer, P. (2002): Ephemeroptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002, water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Cloeon,COI,invertebrate,herbivore,Grazer_scraper,Invertebrate,Mayfly,GrazerScraper,GathererCollector,GathererCollector,GrazerGatherer,PrimaryConsumer,"Bauernfeind, E., Moog, O. & Weichselbaumer, P. (2002): Ephemeroptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002, water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Cricotopus,COI,invertebrate,herbivore,Grazer_scraper,Diptera,Bloodworm,GrazerScraper,GrazerScraper,GrazerScraper,Grazer,PrimaryConsumer,"Janecek, B.F.U., Moog, O., Moritz, C., Orendt, C. & Saxl, R. (2002): Chironomidae (authors depending on subfamily). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferung 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Diamesa,COI,invertebrate,herbivore,Grazer_scraper,Diptera,Bloodworm,GrazerScraper,GrazerScraper,GrazerScraper,Grazer,PrimaryConsumer,"Janecek, B.F.U., Moog, O., Moritz, C., Orendt, C. & Saxl, R. (2002): Chironomidae (authors depending on subfamily). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferung 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Ecdyonurus,COI,invertebrate,herbivore,Grazer_scraper,Invertebrate,Mayfly,GrazerScraper,GathererCollector,GathererCollector,GrazerGatherer,PrimaryConsumer,"Bauernfeind, E., Moog, O. & Weichselbaumer, P. (2002): Ephemeroptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002, water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Elmis,COI,invertebrate,herbivore,Grazer_scraper,Invertebrate,Beetle,GrazerScraper,GrazerScraper,None,Grazer,PrimaryConsumer,"Schmedtje, U. & Colling, M. (1996): Ecological typing of the aquatic macrofauna. Information reports of the Bavarian State Office for Water Management 4/96, 543 pp."
+Epeorus,COI,invertebrate,herbivore,Grazer_scraper,Invertebrate,Mayfly,GrazerScraper,GrazerScraper,GrazerScraper,Grazer,PrimaryConsumer,"Bauernfeind, E., Moog, O. & Weichselbaumer, P. (2002): Ephemeroptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, Lieferung 2002, Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Ephemerella,COI,invertebrate,herbivore,Grazer_scraper,Invertebrate,Mayfly,GrazerScraper,GathererCollector,GathererCollector,GrazerGatherer,PrimaryConsumer,"Bauernfeind, E., Moog, O. & Weichselbaumer, P. (2002): Ephemeroptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002, water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Eukiefferiella,COI,invertebrate,herbivore,Grazer_scraper,Diptera,Bloodworm,GrazerScraper,GrazerScraper,GrazerScraper,Grazer,PrimaryConsumer,"Janecek, BFU, Moog, O., Moritz, C., Orendt, C. & Saxl, R. (2002): Chironomidae (authors depending on subfamily). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, delivery 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Glossosoma,COI,invertebrate,herbivore,Grazer_scraper,Invertebrate,Caddisfly,GrazerScraper,GrazerScraper,GrazerScraper,Grazer,PrimaryConsumer,0
+Limnius,COI,invertebrate,herbivore,Grazer_scraper,Invertebrate,Beetle,GrazerScraper,GrazerScraper,None,Grazer,PrimaryConsumer,"AQEM expert consortium (2002): Ecological classifications by AQEM expert consortium, www.aqem.de"
+Paratrichocladius,COI,invertebrate,herbivore,Grazer_scraper,Diptera,Bloodworm,GrazerScraper,GrazerScraper,GrazerScraper,Grazer,PrimaryConsumer,"Janecek, BFU, Moog, O., Moritz, C., Orendt, C. & Saxl, R. (2002): Chironomidae (authors depending on subfamily). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, delivery 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Rhithrogena,COI,invertebrate,herbivore,Grazer_scraper,Invertebrate,Mayfly,GrazerScraper,GrazerScraper,GrazerScraper,Grazer,PrimaryConsumer,"Bauernfeind, E., Moog, O. & Weichselbaumer, P. (2002): Ephemeroptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002, water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Riolus,COI,invertebrate,herbivore,Grazer_scraper,Invertebrate,Beetle,GrazerScraper,GrazerScraper,None,Grazer,PrimaryConsumer,"Schmedtje, U. & Colling, M. (1996): Ecological typing of the aquatic macrofauna. Information reports of the Bavarian State Office for Water Management 4/96, 543 pp."
+Serratella,COI,invertebrate,herbivore,Grazer_scraper,Invertebrate,Mayfly,GrazerScraper,GathererCollector,GathererCollector,Grazer,PrimaryConsumer,"Bauernfeind, E., Moog, O. & Weichselbaumer, P. (2002): Ephemeroptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002, water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Takobia,COI,invertebrate,herbivore,Grazer_scraper,Invertebrate,Mayfly,GrazerScraper,GathererCollector,GathererCollector,GrazerGatherer,PrimaryConsumer,0
+Tvetenia,COI,invertebrate,herbivore,Grazer_scraper,Invertebrate,Worm,GrazerScraper,GrazerScraper,None,Grazer,PrimaryConsumer,"Janecek, B.F.U., Moog, O., Moritz, C., Orendt, C. & Saxl, R. (2002): Chironomidae (authors depending on subfamily). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferung 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+12up,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Acetobacteroides,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Acholeplasma,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Achromobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Acidibacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Acidiphilium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Acidovorax,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Acinetobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Actinoplanes,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Aeromonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Aetherobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+AKYG587,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Algoriphagus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Alistipes,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Alkanindiges,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Alloprevotella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Altererythrobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Anaerocella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Aquabacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Aquaspirillum,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Aquicella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Aquimonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Arcicella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Arcobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Arenimonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Armatimonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Asaia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Asticcacaulis,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Azospirillum,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Bacillus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Bacteriovorax,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Bacteroides,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Bauldia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Bdellovibrio,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Beggiatoa,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Bifidobacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Blastocatella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Blautia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Bosea,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Brevundimonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Bryobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+BSV13,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Catenibacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Caulobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Cellvibrio,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Chitinibacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Chitinimonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Chitinivorax,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Chitinophaga,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Chroococcidiopsis,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Chryseobacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Chryseolinea,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Chthoniobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Cloacibacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Collinsella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Comamonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Corynebacterium_1,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Coxiella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Crenothrix,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Crocinitomix,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Cytophaga,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Deefgea,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Deinococcus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Delftia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Devosia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Dickeya,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Dietzia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Dinghuibacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Dongia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Duganella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Dyadobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Dysgonomonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Elstera,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Emticicia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Enhydrobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Erysipelothrix,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Euglenaria_anabaena,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Exiguobacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Facklamia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Faecalibacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Fastidiosipila,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Ferruginibacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Fibrella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Filimonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Flavihumibacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Flavitalea,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Flavobacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Flectobacillus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Fluviicoccus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Fluviicola,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Fluviimonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Fodinicola,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Fusibacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Fusobacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Gaiella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Gemmata,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Gemmatimonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Geobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+GKS98_freshwater_group,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Granulicella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+H16,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Haematospirillum,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Haliangium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Haliea,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Halioglobus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Haliscomenobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Haloferula,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Halomonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Herpetosiphon,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+hgcI_clade,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Hirschia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Holdemanella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Hydrogenophaga,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Hymenobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Hyphomicrobium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Iamia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Ilumatobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Iodobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Kurthia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Lachnoclostridium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Lacibacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Lactobacillus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Lactococcus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Leadbetterella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Leeia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Legionella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Leptothrix,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Leptotrichia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Leucobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Limnobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Limnohabitans,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Luteimonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Luteolibacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Lysobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Macellibacteroides,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Magnetospirillum,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Marinospirillum,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Massilia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Megamonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Meganema,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Merismopedia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Mesorhizobium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Methanogenium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Methylobacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Methyloparacoccus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Methylophilus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Methylotenera,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Microbacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Microcoleus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Mucilaginibacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Mycobacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Nakamurella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Nannocystis,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Nevskia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Niveispirillum,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Nocardioides,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Novosphingobium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Oleiphilus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Oligoflexus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Oligosphaera,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+OM27_clade,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Opitutus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Paenibacillus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Paludibacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Paludibaculum,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Parabacteroides,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Parafilimonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Parasediminibacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Parasegetibacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Pedobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Pedomicrobium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Pelosinus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Peredibacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Perlucidibaca,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Petrimonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Phacotus_lenticularis,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Phaeodactylibacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Phascolarctobacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Phaselicystis,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Phenylobacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Phormidium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Phycisphaera,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Pir4_lineage,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Pirellula,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Planctomyces,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Pleurocapsa,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Polaromonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Polyangium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Polymorphobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Polynucleobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Prevotella_9,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Propionivibrio,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Prosthecobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Proteiniclasticum,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Proteiniphilum,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Pseudarcicella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Pseudendoclonium_akinetum,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Pseudohongiella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Pseudomonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Pseudorhodoferax,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Pseudoxanthomonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Psychrobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Reyranella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Rheinheimera,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Rhizobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Rhizobium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Rhizomicrobium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Rhizorhapis,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Rhodobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Rhodococcus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Rhodoferax,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Rhodomicrobium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Rickettsia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Rickettsiella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Roseococcus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Roseomonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Rubellimicrobium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Rudanella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Runella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sandaracinobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sandaracinus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sandarakinorhabdus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sarcina,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Schlesneria,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sediminibacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Serratia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sideroxydans,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Silanimonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Simiduia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Simplicispira,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+SM1A02,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Snowella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Solitalea,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sorangium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sphaerochaeta,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sphaerotilus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sphingobacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sphingobium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sphingomonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sphingopyxis,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sphingorhabdus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Spirochaeta_2,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Spirosoma,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sporichthya,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Staphylococcus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Stenotrophobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Stenotrophomonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Steroidobacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Streptococcus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Streptomyces,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sulfurifustis,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sulfuritalea,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sulfurospirillum,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Sutterella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Taibaiella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Terrimicrobium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Terrimonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Thauera,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Thermomonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Thiothrix,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Tissierella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Treponema_2,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Trichococcus,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Truepera,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Turicibacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Uliginosibacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Undibacterium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Variibacter,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Verrucomicrobium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Vogesella,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Woodsholea,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Yersinia,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Z20,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Zoogloea,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Zymomonas,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Clostridium,16S,decomposer,decomposer,Heterotroph_bac,Bacteria,Bacteria,None,None,None,Microorganism,PrimaryProducer,Newton et al 2011
+Barbus,12S,endo.vert,predator,Invert_eating_fish,Fish,Barbel,FishPredator,None,None,InvPredator,SecondaryConsumer,"Grenouillet, G. & Schmidt-Kloiber., A. (2006): Fish Indicator Database. Euro-limpacs project, Workpackage 7 - Indicators of ecosystem health, Task 4, accessed via www.freshwaterecology.info, version 7.0 (accessed on 08.10.2020)."
+Cottus,12S,endo.vert,predator,Invert_eating_fish,Fish,Bullhead,FishPredator,None,None,InvPredator,SecondaryConsumer,"Grenouillet, G. & Schmidt-Kloiber., A. (2006): Fish Indicator Database. Euro-limpacs project, Workpackage 7 - Indicators of ecosystem health, Task 4, accessed via www.freshwaterecology.info, version 7.0 (accessed on 08.10.2020)."
+Gobio,12S,endo.vert,predator,Invert_eating_fish,Fish,Gudgeon,FishPredator,None,None,InvPredator,SecondaryConsumer,"Grenouillet, G. & Schmidt-Kloiber., A. (2006): Fish Indicator Database. Euro-limpacs project, Workpackage 7 - Indicators of ecosystem health, Task 4, accessed via www.freshwaterecology.info, version 7.0 (accessed on 08.10.2020)."
+Phoxinus,12S,endo.vert,predator,Invert_eating_fish,Fish,Minnow,FishPredator,None,None,InvPredator,SecondaryConsumer,"Grenouillet, G. & Schmidt-Kloiber., A. (2006): Fish Indicator Database. Euro-limpacs project, Workpackage 7 - Indicators of ecosystem health, Task 4, accessed via www.freshwaterecology.info, version 7.0 (accessed on 08.10.2020)."
+Barbatula,COI,endo.vert,predator,Invert_eating_fish,Fish,Stoneloach,FishPredator,None,None,InvPredator,SecondaryConsumer,"Grenouillet, G. & Schmidt-Kloiber., A. (2006): Fish Indicator Database. Euro-limpacs project, Workpackage 7 - Indicators of ecosystem health, Task 4, accessed via www.freshwaterecology.info, version 7.0 (accessed on 08.10.2020)."
+Cyprinus,COI,endo.vert,predator,Invert_eating_fish,Fish,CommonCarp,FishPredator,None,None,InvPredator,SecondaryConsumer,0
+Salmo,COI,endo.vert,predator,Invert_eating_fish,Fish,Salmon,FishPredator,None,None,InvPredator,SecondaryConsumer,"Grenouillet, G. & Schmidt-Kloiber., A. (2006): Fish Indicator Database. Euro-limpacs project, Workpackage 7 - Indicators of ecosystem health, Task 4, accessed via www.freshwaterecology.info, version 7.0 (accessed on 08.10.2020)."
+Squalius,COI,endo.vert,predator,Invert_eating_fish,Fish,Chubb,FishPredator,None,None,InvPredator,SecondaryConsumer,"Grenouillet, G. & Schmidt-Kloiber., A. (2006): Fish Indicator Database. Euro-limpacs project, Workpackage 7 - Indicators of ecosystem health, Task 4, accessed via www.freshwaterecology.info, version 7.0 (accessed on 08.10.2020)."
+Conchapelopia,COI,invertebrate,predator,Invert_predator,Diptera,Bloodworm,Predator,Predator,None,InvPredator,SecondaryConsumer,"Janecek, B.F.U., Moog, O., Moritz, C., Orendt, C. & Saxl, R. (2002): Chironomidae (authors depending on subfamily). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, Lieferung 2002. Wasserwirtschaftskataster, Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Isoperla,COI,invertebrate,predator,Invert_predator,Invertebrate,Stonefly,Predator,Predator,EPTPredator,InvPredator,SecondaryConsumer,"Graf, W., Grasser, U. & Weinzierl, A. (2002): Plecoptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Perla,COI,invertebrate,predator,Invert_predator,Invertebrate,Stonefly,Predator,Predator,EPTPredator,InvPredator,SecondaryConsumer,"Graf, W., Grasser, U. & Weinzierl, A. (2002): Plecoptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Perlodes,COI,invertebrate,predator,Invert_predator,Invertebrate,Stonefly,Predator,Predator,EPTPredator,InvPredator,SecondaryConsumer,"Graf, W., Grasser, U. & Weinzierl, A. (2002): Plecoptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Rhyacophila,COI,invertebrate,predator,Invert_predator,Invertebrate,Caddisfly,Predator,Predator,EPTPredator,InvPredator,SecondaryConsumer,"Graf, W., Grasser, U. & Waringer, J. (2002): Trichoptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, Lieferung 2002. Wasserwirtschaftskataster, Bundesministerium für Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Perca,12S,endo.vert,predator,Omnivorous_fish,Fish,Perch,FishPredator,None,None,AllPredator,SecondaryConsumer,"Grenouillet, G. & Schmidt-Kloiber., A. (2006):Fish Indicator Database. Euro-limpacs project, Workpackage 7 - Indicators of ecosystem health, Task 4, accessed via www.freshwaterecology.info, version 7.0 (accessed on 08.10.2020)."
+Carassius,COI,endo.vert,predator,Omnivorous_fish,Fish,Carp,FishPredator,None,None,AllPredator,SecondaryConsumer,"Grenouillet, G. & Schmidt-Kloiber., A. (2006):Fish Indicator Database. Euro-limpacs project, Workpackage 7 - Indicators of ecosystem health, Task 4, accessed via www.freshwaterecology.info, version 7.0 (accessed on 08.10.2020)."
+Scardinius,COI,endo.vert,predator,Omnivorous_fish,Fish,Rudd,FishPredator,None,None,AllPredator,SecondaryConsumer,"Grenouillet, G. & Schmidt-Kloiber., A. (2006):Fish Indicator Database. Euro-limpacs project, Workpackage 7 - Indicators of ecosystem health, Task 4, accessed via www.freshwaterecology.info, version 7.0 (accessed on 08.10.2020)."
+Gyrodactylus,COI,invertebrate,predator,Parasite,Parasite,Salmon fluke,None,None,None,None,Parasite,0
+Esox,12S,endo.vert,predator,Piscivore_fish,Fish,Pike,FishPredator,None,None,FishPredator,TertiaryConsumer,"Grenouillet, G. & Schmidt-Kloiber., A. (2006): Fish Indicator Database. Euro-limpacs project, Workpackage 7 - Indicators of ecosystem health, Task 4, accessed via www.freshwaterecology.info, version 7.0 (accessed on 08.10.2020)."
+Detritus,NA,0,detritus,resource,leaf_litter,allochthonous input,None,None,None,None,None,0
+Ephydatia,COI,invertebrate,detritivore,sessile_filterers,Sponge,Sponge,FilterFeeder,FilterFeeder,FilterFeeder,FilterFeeder,PrimaryConsumer,0
+Plumatella,COI,invertebrate,detritivore,sessile_filterers,Bryozoan,Bryozoan,CollectorFilter,CollectorFilter,CollectorFilter,FilterFeeder,PrimaryConsumer,"Wöss, E. (1995): Bryozoa. In: Moog, O. (Ed.): Fauna Aquatica Austriaca, deliveries 1995, 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Capnioneura,COI,invertebrate,detritivore,Shredder,Invertebrate,Stonefly,Shredder,Shredder,Shredder,Shredder,PrimaryConsumer,"Graf, W., Grasser, U. & Weinzierl, A. (2002): Plecoptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Dicranomyia,COI,invertebrate,detritivore,Shredder,Diptera,Crane fly,Shredder,Shredder,Shredder,Shredder,SecondaryConsumer,0
+Elodes,COI,invertebrate,detritivore,Shredder,Invertebrate,Beetle,Shredder,Shredder,None,Shredder,PrimaryConsumer,0
+Gammarus,COI,invertebrate,detritivore,Shredder,Invertebrate,Shrimp,Shredder,Shredder,None,Shredder,PrimaryConsumer,"Eder, E., Hödl, W., Moog., O., Nesemann, H., Pöckl M. & Wittmann, K. (1995): Crustacea (authors depending on taxagroup). In: Moog, O. (Ed.): Fauna Aquatica Austriaca, deliveries 1995, 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Limnephilus,COI,invertebrate,detritivore,Shredder,Invertebrate,Caddisfly,Shredder,Shredder,Shredder,Shredder,PrimaryConsumer,"Graf, W., Grasser, U. & Waringer, J. (2002): Trichoptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002. Water management cadastre, Federal Ministry for the Federal Ministry for Agriculture, Forestry, Environment and Water Management, Vienna."
+Melampophylax,COI,invertebrate,detritivore,Shredder,Invertebrate,Caddisfly,Shredder,Shredder,Shredder,Shredder,PrimaryConsumer,"Graf, W., Grasser, U. & Waringer, J. (2002): Trichoptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002. Water management cadastre, Federal Ministry for the Federal Ministry for Agriculture, Forestry, Environment and Water Management, Vienna."
+Nemoura,COI,invertebrate,detritivore,Shredder,Invertebrate,Stonefly,Shredder,Shredder,Shredder,Shredder,PrimaryConsumer,"Graf, W., Grasser, U. & Weinzierl, A. (2002): Plecoptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Potamophylax,COI,invertebrate,detritivore,Shredder,Invertebrate,Caddisfly,Shredder,Shredder,Shredder,Shredder,PrimaryConsumer,"Graf, W., Grasser, U. & Waringer, J. (2002): Trichoptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002. Water management cadastre, Federal Ministry for the Federal Ministry for Agriculture, Forestry, Environment and Water Management, Vienna."
+Protonemura,COI,invertebrate,detritivore,Shredder,Invertebrate,Stonefly,Shredder,Shredder,Shredder,Shredder,PrimaryConsumer,"Graf, W., Grasser, U. & Weinzierl, A. (2002): Plecoptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, delivery 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Sericostoma,COI,invertebrate,detritivore,Shredder,Invertebrate,Caddisfly,Shredder,Shredder,Shredder,Shredder,PrimaryConsumer,"Graf, W., Grasser, U. & Waringer, J. (2002): Trichoptera. In: Moog, O. (ed.): Fauna Aquatica Austriaca, Lieferung 2002. Wasserwirtschaftskataster, Bundesministerium für Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien."
+Chaetogaster,COI,invertebrate,predator,small_preds,Invertebrate,worm,GathererCollector,GathererCollector,GathererCollector,InvPredator,SecondaryConsumer,"Hörner, K., Moog, O. & Sporka, F. (1995): Oligochaeta. In: Moog, O. (Ed.): Fauna Aquatica Austriaca, deliveries 1995, 2002. Water management cadastre, Federal Ministry of Agriculture, Forestry, Environment and Water Management, Vienna."
+Craspedacusta,COI,invertebrate,predator,small_preds,Hydrozoan,InvasiveJellyfish,Predator,FilterFeeder,FilterFeeder,Predator,PrimaryConsumer,0
+Hydra,COI,invertebrate,predator,small_preds,Hydrozoan,Hydra,FilterFeeder,FilterFeeder,FilterFeeder,Predator,PrimaryConsumer,0
+Stenostomum,COI,invertebrate,predator,small_preds,Parasite,Flatworm,None,None,None,None,Parasite,0
+Acanthocyclops,COI,invertebrate,detritivore,Zooplankton,Zooplankton,Copepod,FilterFeeder,FilterFeeder,FilterFeeder,FilterFeeder,PrimaryConsumer,0
+Chaetonotus,COI,invertebrate,detritivore,Zooplankton,Gastrotrich,Gastrotrich,FilterFeeder,FilterFeeder,FilterFeeder,FilterFeeder,PrimaryConsumer,0
+Chydorus,COI,invertebrate,detritivore,Zooplankton,Zooplankton,Cladoceran,FilterFeeder,FilterFeeder,None,FilterFeeder,PrimaryConsumer,0
+Cyclops,COI,invertebrate,detritivore,Zooplankton,Zooplankton,Copepod,FilterFeeder,FilterFeeder,FilterFeeder,FilterFeeder,PrimaryConsumer,0
+Cypridopsis,COI,invertebrate,detritivore,Zooplankton,Zooplankton,Ostracoda,FilterFeeder,FilterFeeder,None,FilterFeeder,PrimaryConsumer,0
+Euchlanis,COI,invertebrate,detritivore,Zooplankton,Zooplankton,Rotifer,GrazerScraper,GrazerScraper,GrazerScraper,Grazer,PrimaryConsumer,0
+Eucyclops,COI,invertebrate,detritivore,Zooplankton,Zooplankton,Copepod,FilterFeeder,FilterFeeder,FilterFeeder,FilterFeeder,PrimaryConsumer,0
+Isohypsibius,COI,invertebrate,detritivore,Zooplankton,Invertebrate,Tardigrade,None,None,None,None,PrimaryConsumer,0
+Keratella,COI,invertebrate,detritivore,Zooplankton,Zooplankton,Rotifer,GrazerScraper,GrazerScraper,GrazerScraper,Grazer,PrimaryConsumer,0
+Polyarthra,COI,invertebrate,detritivore,Zooplankton,Zooplankton,Rotifer,GrazerScraper,GrazerScraper,GrazerScraper,Grazer,PrimaryConsumer,0
+Thermocyclops,COI,invertebrate,detritivore,Zooplankton,Zooplankton,Copepod,FilterFeeder,FilterFeeder,FilterFeeder,FilterFeeder,PrimaryConsumer,0
