@@ -2,7 +2,7 @@
 
 Spatio-temporal patterns of multi-trophic biodiversity and food-web characteristics uncovered across a river catchment using environmental DNA  
 Rosetta C. Blackman, Hsi-Cheng Ho, Jean-Claude Walser & Florian Altermatt 
-Communications Biology volume 5, Article number: 259 (2022
+Communications Biology volume 5, Article number: 259 (2022)
 
 The information contained in this repository is referenced in the above manuscript:
 1. Data post taxonomic assignment for the three libraries - 12S, COI and 16S (Bioinformatics details can be found in the above manuscript supp info).
